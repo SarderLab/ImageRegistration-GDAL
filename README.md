@@ -8,9 +8,7 @@ The method uses landmark (or reference) points annotated on an image pair. Unlik
 
 First, install the dependencies by running:
 
-<pre> 
-pip3 install -r requirements.txt
-</pre>
+<pre> pip3 install -r requirements.txt </pre>
 
 ## Prepare Landmarks
 
@@ -20,9 +18,7 @@ For both fixed and moving images, prepare a `pandas` dataframe with correspondin
 
 Run:
 
-<pre> 
-python3 gdal_test.py
-</pre>
+<pre> python3 gdal_test.py </pre>
 
 This will same a `yaml` file contatining the transformation between the 2 images where the moving image being the `warp`. The overlaid images can be visialized in `HistomicsUI` in [Digital Slide Archive](https://athena.rc.ufl.edu/).
 
