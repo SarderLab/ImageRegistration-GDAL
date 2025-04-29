@@ -1,0 +1,4 @@
+pyyaml
+numpy
+pandas
+large-image[all] --find-links https://girder.github.io/large_image_wheels
