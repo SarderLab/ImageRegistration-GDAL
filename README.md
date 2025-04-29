@@ -24,7 +24,7 @@ Run:
 python3 gdal_test.py
 </pre>
 
-This will same a `yaml` file contatining the transformation between the 2 images where the moving image being the `warp`. The overlaid images can be visialized in `HistomicsUI` in (Digital Slide Archive)[https://athena.rc.ufl.edu/].
+This will same a `yaml` file contatining the transformation between the 2 images where the moving image being the `warp`. The overlaid images can be visialized in `HistomicsUI` in [Digital Slide Archive](https://athena.rc.ufl.edu/).
 
 A sample Json file is shown below that can be vizualized in HistomicUI:
 ```
