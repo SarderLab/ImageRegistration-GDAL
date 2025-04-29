@@ -48,7 +48,7 @@ sources:
 The images can be vizualized in HistomicsUI:
 
 
-| Image 1         | Arrow | Image 2         |
+
 |-----------------|-------|-----------------|
 | ![Image 1](images/before.PNG) | →     | ![Image 2](images/after.PNG) |
 
